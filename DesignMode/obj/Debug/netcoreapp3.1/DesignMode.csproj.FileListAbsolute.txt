@@ -1,0 +1,13 @@
+D:\ceshi\DesingMode\DesignMode\bin\Debug\netcoreapp3.1\DesignMode.exe
+D:\ceshi\DesingMode\DesignMode\bin\Debug\netcoreapp3.1\DesignMode.deps.json
+D:\ceshi\DesingMode\DesignMode\bin\Debug\netcoreapp3.1\DesignMode.runtimeconfig.json
+D:\ceshi\DesingMode\DesignMode\bin\Debug\netcoreapp3.1\DesignMode.runtimeconfig.dev.json
+D:\ceshi\DesingMode\DesignMode\bin\Debug\netcoreapp3.1\DesignMode.dll
+D:\ceshi\DesingMode\DesignMode\bin\Debug\netcoreapp3.1\DesignMode.pdb
+D:\ceshi\DesingMode\DesignMode\obj\Debug\netcoreapp3.1\DesignMode.csprojAssemblyReference.cache
+D:\ceshi\DesingMode\DesignMode\obj\Debug\netcoreapp3.1\DesignMode.csproj.CoreCompileInputs.cache
+D:\ceshi\DesingMode\DesignMode\obj\Debug\netcoreapp3.1\DesignMode.AssemblyInfoInputs.cache
+D:\ceshi\DesingMode\DesignMode\obj\Debug\netcoreapp3.1\DesignMode.AssemblyInfo.cs
+D:\ceshi\DesingMode\DesignMode\obj\Debug\netcoreapp3.1\DesignMode.dll
+D:\ceshi\DesingMode\DesignMode\obj\Debug\netcoreapp3.1\DesignMode.pdb
+D:\ceshi\DesingMode\DesignMode\obj\Debug\netcoreapp3.1\DesignMode.genruntimeconfig.cache
